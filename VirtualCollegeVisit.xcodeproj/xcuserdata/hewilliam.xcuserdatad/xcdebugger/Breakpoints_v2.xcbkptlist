@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BUOPOLY/ViewController1.swift"
+            timestampString = "525674268.596458"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BUOPOLY/CollegesTableViewController.swift"
+            timestampString = "517983374.222541"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CollegesTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BUOPOLY.CollegesTableViewController.__deallocating_deinit"
+                  moduleName = "BUOPOLY"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hewilliam/Documents/IPhoneProjects/BUOPOLY/BUOPOLY/CollegesTableViewController.swift"
+                  timestampString = "517984310.604759"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BUOPOLY.CollegesTableViewController.init (style : __C.UITableViewStyle) -&gt; BUOPOLY.CollegesTableViewController"
+                  moduleName = "BUOPOLY"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hewilliam/Documents/IPhoneProjects/BUOPOLY/BUOPOLY/CollegesTableViewController.swift"
+                  timestampString = "517984310.606093"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BUOPOLY.CollegesTableViewController.__allocating_init (style : __C.UITableViewStyle) -&gt; BUOPOLY.CollegesTableViewController"
+                  moduleName = "BUOPOLY"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hewilliam/Documents/IPhoneProjects/BUOPOLY/BUOPOLY/CollegesTableViewController.swift"
+                  timestampString = "517984310.607497"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BUOPOLY.CollegesTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; BUOPOLY.CollegesTableViewController"
+                  moduleName = "BUOPOLY"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hewilliam/Documents/IPhoneProjects/BUOPOLY/BUOPOLY/CollegesTableViewController.swift"
+                  timestampString = "517984310.608817"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BUOPOLY.CollegesTableViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; BUOPOLY.CollegesTableViewController"
+                  moduleName = "BUOPOLY"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hewilliam/Documents/IPhoneProjects/BUOPOLY/BUOPOLY/CollegesTableViewController.swift"
+                  timestampString = "517984310.611432"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BUOPOLY.CollegesTableViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;BUOPOLY.CollegesTableViewController&gt;"
+                  moduleName = "BUOPOLY"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hewilliam/Documents/IPhoneProjects/BUOPOLY/BUOPOLY/CollegesTableViewController.swift"
+                  timestampString = "517984310.615732"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BUOPOLY.CollegesTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;BUOPOLY.CollegesTableViewController&gt;"
+                  moduleName = "BUOPOLY"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hewilliam/Documents/IPhoneProjects/BUOPOLY/BUOPOLY/CollegesTableViewController.swift"
+                  timestampString = "517984310.618736"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
